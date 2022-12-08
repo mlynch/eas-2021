@@ -21,17 +21,12 @@ namespace App {
     // ...and define a custom Program class with a Main method 
 
     public static class Program {
-        private static int activationCount = 1;
-        public static List<string> OutputStack { get; private set; }
-
         // Replaces the standard App.g.i.cs.
         // Note: We can't declare Main to be async because in a WinUI app
         // this prevents Narrator from reading XAML elements.
         [STAThread]
         static void Main(string[] args) {
             WinRT.ComWrappersSupport.InitializeComWrappers();
-
-            OutputStack = new();
 
             bool isRedirect = DecideRedirection();
             if (!isRedirect) {
@@ -46,66 +41,15 @@ namespace App {
 
         #region Report helpers
 
-        public static void ReportInfo(string message) {
-            // If we already have a form, display the message now.
-            // Otherwise, add it to the collection for displaying later.
-            OutputStack.Add(message);
-        }
-
-        private static void ReportFileArgs(string callSite, AppActivationArguments args) {
-            ReportInfo($"called from {callSite}");
-            if (args.Data is IProtocolActivatedEventArgs protoArgs) {
-                ReportInfo($"file: {protoArgs.Uri.ToString()}");
-            }
-        }
-
-        private static void ReportLaunchArgs(string callSite, AppActivationArguments args) {
-            ReportInfo($"called from {callSite}");
-            if (args.Data is ILaunchActivatedEventArgs launchArgs) {
-                string[] argStrings = launchArgs.Arguments.Split();
-                for (int i = 0; i < argStrings.Length; i++) {
-                    string argString = argStrings[i];
-                    if (!string.IsNullOrWhiteSpace(argString)) {
-                        ReportInfo($"arg[{i}] = {argString}");
-                    }
-                }
-            }
-        }
-
         private static void OnActivated(object sender, AppActivationArguments args) {
             ExtendedActivationKind kind = args.Kind;
-            if (kind == ExtendedActivationKind.Launch) {
-                ReportLaunchArgs($"OnActivated ({activationCount++})", args);
-            } else if (kind == ExtendedActivationKind.Protocol) {
+            if (kind == ExtendedActivationKind.Protocol) {
                 if (args.Data is IProtocolActivatedEventArgs protoArgs) {
                     if (App.Current is App thisApp && thisApp.AppWindow != null &&
                         thisApp.AppWindow is MainWindow thisWindow) {
                         thisWindow.HandleRedirect(protoArgs.Uri);
                     }
 
-                }
-                ReportFileArgs($"OnActivated ({activationCount++})", args);
-            }
-        }
-
-        public static void GetActivationInfo() {
-            AppActivationArguments args = AppInstance.GetCurrent().GetActivatedEventArgs();
-            ExtendedActivationKind kind = args.Kind;
-            ReportInfo($"ActivationKind: {kind}");
-
-            if (kind == ExtendedActivationKind.Launch) {
-                if (args.Data is ILaunchActivatedEventArgs launchArgs) {
-                    string argString = launchArgs.Arguments;
-                    string[] argStrings = argString.Split();
-                    foreach (string arg in argStrings) {
-                        if (!string.IsNullOrWhiteSpace(arg)) {
-                            ReportInfo(arg);
-                        }
-                    }
-                }
-            } else if (kind == ExtendedActivationKind.Protocol) {
-                if (args.Data is IProtocolActivatedEventArgs protoArgs) {
-                    ReportInfo(protoArgs.Uri.ToString());
                 }
             }
         }
@@ -122,12 +66,9 @@ namespace App {
             // Find out what kind of activation this is.
             AppActivationArguments args = AppInstance.GetCurrent().GetActivatedEventArgs();
             ExtendedActivationKind kind = args.Kind;
-            ReportInfo($"ActivationKind={kind}");
             if (kind == ExtendedActivationKind.Launch) {
                 // This is a launch activation.
                 AppInstance keyInstance = AppInstance.FindOrRegisterForKey("main"); // file.Name);
-                ReportLaunchArgs("Main", args);
-                ReportInfo($"Registered key = {keyInstance.Key}");
 
                 // If we successfully registered the file name, we must be the
                 // only instance running that was activated for this file.
@@ -137,7 +78,6 @@ namespace App {
                     keyInstance.Activated += OnActivated;
                 }
             } else if (kind == ExtendedActivationKind.Protocol) {
-                ReportFileArgs("Main", args);
 
                 try {
                     // This is a file activation: here we'll get the file information,
@@ -145,13 +85,11 @@ namespace App {
                     if (args.Data is IProtocolActivatedEventArgs protoArgs) {
                         var uri = protoArgs.Uri;
                         AppInstance keyInstance = AppInstance.FindOrRegisterForKey("main"); // file.Name);
-                        ReportInfo($"Registered key = {keyInstance.Key}");
 
                         // If we successfully registered the file name, we must be the
                         // only instance running that was activated for this file.
                         if (keyInstance.IsCurrent) {
                             // Report successful file name key registration.
-                            ReportInfo($"IsCurrent=true; registered this instance for {uri}");
 
                             // Hook up the Activated event, to allow for this instance of the app
                             // getting reactivated as a result of multi-instance redirection.
@@ -162,7 +100,7 @@ namespace App {
                         }
                     }
                 } catch (Exception ex) {
-                    ReportInfo($"Error getting instance information: {ex.Message}");
+                    throw;
                 }
             }
 

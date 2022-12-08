@@ -26,8 +26,16 @@ namespace App {
         public async void HandleRedirect(Uri uri) {
             Debug.WriteLine($"Handling redirect: {uri.ToString()}");
 
+            var js = $@"
+var u = new URL('{uri.ToString()}');
+if (u.searchParams.get('code')) {{
+    window.IonicAuth.handleLoginCallback('{uri.ToString()}');
+}} else {{
+    window.IonicAuth.handleLogoutCallback();
+}}
+            ";
+
             this.CapacitorWebView.DispatcherQueue.TryEnqueue(() => {
-                var js = $"window.IonicAuth.handleLoginCallback('{uri.ToString()}');";
                 _ = this.CapacitorWebView.ExecuteScriptAsync(js);
             });
         }
