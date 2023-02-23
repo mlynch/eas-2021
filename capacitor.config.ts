@@ -12,4 +12,6 @@ const config: CapacitorConfig = {
   // }
 };
 
+(config as any).windows = { unpackaged: true }
+
 export default config;

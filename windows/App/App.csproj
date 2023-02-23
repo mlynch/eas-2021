@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+	  <TargetFramework>net5.0-windows10.0.19041.0</TargetFramework>
+	  <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+	  <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>x64</Platforms>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <StartupObject>MyApp.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="capacitor.config.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="capacitor.plugins.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1210.39" />
+    <PackageReference Include="CapacitorWpf" Version="1.*" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Content Include="Public\**\*">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+</Project>

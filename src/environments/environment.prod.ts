@@ -19,7 +19,8 @@ export const nativeIonicAuthOptions: IonicAuthOptions = {
   // OpenID configuration
   discoveryUrl: 'https://ioniccs.b2clogin.com/ioniccs.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_SignUp',
   // the URI to redirect to after log in
-  redirectUri: 'ionic.cs.appsummit://login',
+  // redirectUri: 'ionic.cs.appsummit://login',
+  redirectUri: 'http://localhost/tabs/tab1',
   // requested scopes from provider
   scope: 'openid offline_access email profile https://ioniccs.onmicrosoft.com/5a5ef942-0e44-46a8-bbac-6a8ba7654eb0/user_impersonation',
   // the URL to redirect to after log out
@@ -45,7 +46,7 @@ export const webIonicAuthOptions: IonicAuthOptions = {
   // OpenID configuration
   discoveryUrl: 'https://ioniccs.b2clogin.com/ioniccs.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_SignUp',
   // the URI to redirect to after log in
-  redirectUri: 'http://localhost:8100/tabs/tab1',
+  redirectUri: 'http://localhost/tabs/tab1',
   // requested scopes from provider
   scope: 'openid offline_access email profile https://ioniccs.onmicrosoft.com/5a5ef942-0e44-46a8-bbac-6a8ba7654eb0/user_impersonation',
   // the URL to redirect to after log out
