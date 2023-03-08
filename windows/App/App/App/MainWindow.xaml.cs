@@ -27,12 +27,18 @@ namespace App {
             Debug.WriteLine($"Handling redirect: {uri.ToString()}");
 
             var js = $@"
-var u = new URL('{uri.ToString()}');
-if (u.searchParams.get('code')) {{
-    window.IonicAuth.handleLoginCallback('{uri.ToString()}');
-}} else {{
-    window.IonicAuth.handleLogoutCallback();
+async function handleACCallback() {{
+    var u = new URL('{uri.ToString()}');
+    if (u.searchParams.get('code')) {{
+        await window.IonicAuth.handleLoginCallback('{uri.ToString()}');
+    }} else {{
+        await window.IonicAuth.handleLogoutCallback();
+    }}
+    if (window.IonicAuth.implementation.lastAuthPopup) {{
+        window.IonicAuth.implementation.lastAuthPopup.close();
+    }}
 }}
+handleACCallback();
             ";
 
             this.CapacitorWebView.DispatcherQueue.TryEnqueue(() => {

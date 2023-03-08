@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>C8BFFAD5ED10B5F0C5E5837A2BBEEA0D6D736B13F0491C0E075FBB9D7A97BDDC</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A6A18FA905368B59E2D86D3AD634578323838AB2D28D02790A19ED2FD6AD72FD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>81d38ca1-933c-4d2a-8870-a913a2758389_1.0.0.0_x64__b10zz53wnpecr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>81d38ca1-933c-4d2a-8870-a913a2758389_b10zz53wnpecr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>81d38ca1-933c-4d2a-8870-a913a2758389</RegisteredPackageID>
@@ -30,7 +30,7 @@
     <AppXManifest Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-08T17:23:08.465</Modified>
+      <Modified>2023-03-07T15:18:01.304</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -137,36 +137,36 @@
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.612</Modified>
+      <Modified>2023-02-23T16:27:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-12-06T21:22:05.611</Modified>
+      <Modified>2023-02-23T16:27:36.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.613</Modified>
+      <Modified>2023-02-23T16:27:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.614</Modified>
+      <Modified>2023-02-23T16:27:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.615</Modified>
+      <Modified>2023-02-23T16:27:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.615</Modified>
+      <Modified>2023-02-23T16:27:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-06T21:22:05.616</Modified>
+      <Modified>2023-02-23T16:27:36.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\assets\ionic-dark.svg">
       <PackagePath>Public\assets\ionic-dark.svg</PackagePath>
@@ -5606,615 +5606,615 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\common.js">
       <PackagePath>Public\common.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.763</Modified>
+      <Modified>2023-03-02T15:16:36.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-node_modules_capacitor_core_dist_index_js.js">
       <PackagePath>Public\default-node_modules_capacitor_core_dist_index_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.761</Modified>
+      <Modified>2023-03-02T15:16:36.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-node_modules_ionic_core_dist_esm_data-cb72448c_js-node_modules_ionic_core_dist_esm_th-29e28e.js">
       <PackagePath>Public\default-node_modules_ionic_core_dist_esm_data-cb72448c_js-node_modules_ionic_core_dist_esm_th-29e28e.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.761</Modified>
+      <Modified>2023-03-02T15:16:36.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-src_app_components_swag-modal_swag-modal_page_ts.js">
       <PackagePath>Public\default-src_app_components_swag-modal_swag-modal_page_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.761</Modified>
+      <Modified>2023-03-02T15:16:36.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-src_app_services_company_service_ts-src_app_services_speaker_service_ts.js">
       <PackagePath>Public\default-src_app_services_company_service_ts-src_app_services_speaker_service_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.763</Modified>
+      <Modified>2023-03-02T15:16:36.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\main.js">
       <PackagePath>Public\main.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.732</Modified>
+      <Modified>2023-03-02T15:16:36.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_capacitor_browser_dist_esm_web_js.js">
       <PackagePath>Public\node_modules_capacitor_browser_dist_esm_web_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.760</Modified>
+      <Modified>2023-03-02T15:16:36.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_capacitor_preferences_dist_esm_web_js.js">
       <PackagePath>Public\node_modules_capacitor_preferences_dist_esm_web_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.760</Modified>
+      <Modified>2023-03-02T15:16:36.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_index-0bc00b33_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_index-0bc00b33_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.758</Modified>
+      <Modified>2023-03-02T15:16:36.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_input-shims-ca667d14_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_input-shims-ca667d14_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.759</Modified>
+      <Modified>2023-03-02T15:16:36.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.733</Modified>
+      <Modified>2023-03-02T15:16:36.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.732</Modified>
+      <Modified>2023-03-02T15:16:36.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-alert_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-alert_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.734</Modified>
+      <Modified>2023-03-02T15:16:36.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.735</Modified>
+      <Modified>2023-03-02T15:16:36.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.735</Modified>
+      <Modified>2023-03-02T15:16:36.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.736</Modified>
+      <Modified>2023-03-02T15:16:36.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.738</Modified>
+      <Modified>2023-03-02T15:16:36.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.738</Modified>
+      <Modified>2023-03-02T15:16:36.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.738</Modified>
+      <Modified>2023-03-02T15:16:36.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.738</Modified>
+      <Modified>2023-03-02T15:16:36.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.738</Modified>
+      <Modified>2023-03-02T15:16:36.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-chip_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-chip_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.741</Modified>
+      <Modified>2023-03-02T15:16:36.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.742</Modified>
+      <Modified>2023-03-02T15:16:36.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.742</Modified>
+      <Modified>2023-03-02T15:16:36.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.742</Modified>
+      <Modified>2023-03-02T15:16:36.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.743</Modified>
+      <Modified>2023-03-02T15:16:36.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-img_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-img_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.743</Modified>
+      <Modified>2023-03-02T15:16:36.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.743</Modified>
+      <Modified>2023-03-02T15:16:36.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-input_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-input_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.743</Modified>
+      <Modified>2023-03-02T15:16:36.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.744</Modified>
+      <Modified>2023-03-02T15:16:36.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.744</Modified>
+      <Modified>2023-03-02T15:16:36.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-loading_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-loading_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.744</Modified>
+      <Modified>2023-03-02T15:16:36.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.744</Modified>
+      <Modified>2023-03-02T15:16:36.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-modal_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-modal_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.745</Modified>
+      <Modified>2023-03-02T15:16:36.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.745</Modified>
+      <Modified>2023-03-02T15:16:36.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.745</Modified>
+      <Modified>2023-03-02T15:16:36.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.747</Modified>
+      <Modified>2023-03-02T15:16:36.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-popover_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-popover_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.748</Modified>
+      <Modified>2023-03-02T15:16:36.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.748</Modified>
+      <Modified>2023-03-02T15:16:36.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.748</Modified>
+      <Modified>2023-03-02T15:16:36.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-range_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-range_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.748</Modified>
+      <Modified>2023-03-02T15:16:36.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.749</Modified>
+      <Modified>2023-03-02T15:16:36.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.749</Modified>
+      <Modified>2023-03-02T15:16:36.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.749</Modified>
+      <Modified>2023-03-02T15:16:36.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.749</Modified>
+      <Modified>2023-03-02T15:16:36.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.750</Modified>
+      <Modified>2023-03-02T15:16:36.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.750</Modified>
+      <Modified>2023-03-02T15:16:36.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.750</Modified>
+      <Modified>2023-03-02T15:16:36.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.751</Modified>
+      <Modified>2023-03-02T15:16:36.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.751</Modified>
+      <Modified>2023-03-02T15:16:36.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.752</Modified>
+      <Modified>2023-03-02T15:16:36.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.753</Modified>
+      <Modified>2023-03-02T15:16:36.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.754</Modified>
+      <Modified>2023-03-02T15:16:36.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.754</Modified>
+      <Modified>2023-03-02T15:16:36.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-text_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-text_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.754</Modified>
+      <Modified>2023-03-02T15:16:36.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-toast_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-toast_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.754</Modified>
+      <Modified>2023-03-02T15:16:36.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.754</Modified>
+      <Modified>2023-03-02T15:16:36.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.755</Modified>
+      <Modified>2023-03-02T15:16:36.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_status-tap-20472ffa_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_status-tap-20472ffa_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.759</Modified>
+      <Modified>2023-03-02T15:16:36.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.759</Modified>
+      <Modified>2023-03-02T15:16:36.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills-core-js.js">
       <PackagePath>Public\polyfills-core-js.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.755</Modified>
+      <Modified>2023-03-02T15:16:36.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills-dom.js">
       <PackagePath>Public\polyfills-dom.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.755</Modified>
+      <Modified>2023-03-02T15:16:36.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills.js">
       <PackagePath>Public\polyfills.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.732</Modified>
+      <Modified>2023-03-02T15:16:36.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\runtime.js">
       <PackagePath>Public\runtime.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.732</Modified>
+      <Modified>2023-03-02T15:16:36.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_components_swag-modal_swag-modal_module_ts.js">
       <PackagePath>Public\src_app_components_swag-modal_swag-modal_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.757</Modified>
+      <Modified>2023-03-02T15:16:36.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_auth-transition_auth-transition_module_ts.js">
       <PackagePath>Public\src_app_pages_auth-transition_auth-transition_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.758</Modified>
+      <Modified>2023-03-02T15:16:36.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_login_login_module_ts.js">
       <PackagePath>Public\src_app_pages_login_login_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.758</Modified>
+      <Modified>2023-03-02T15:16:36.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_profile_profile_module_ts.js">
       <PackagePath>Public\src_app_pages_profile_profile_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.756</Modified>
+      <Modified>2023-03-02T15:16:36.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_speakers_speakers_module_ts.js">
       <PackagePath>Public\src_app_pages_speakers_speakers_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.760</Modified>
+      <Modified>2023-03-02T15:16:36.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_sponsors_sponsors_module_ts.js">
       <PackagePath>Public\src_app_pages_sponsors_sponsors_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.756</Modified>
+      <Modified>2023-03-02T15:16:36.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tab1_agenda-item_agenda-item_module_ts.js">
       <PackagePath>Public\src_app_pages_tab1_agenda-item_agenda-item_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.760</Modified>
+      <Modified>2023-03-02T15:16:36.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tab1_tab1_module_ts.js">
       <PackagePath>Public\src_app_pages_tab1_tab1_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.759</Modified>
+      <Modified>2023-03-02T15:16:36.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tabs_tabs_module_ts.js">
       <PackagePath>Public\src_app_pages_tabs_tabs_module_ts.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.755</Modified>
+      <Modified>2023-03-02T15:16:36.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\vendor.js">
       <PackagePath>Public\vendor.js</PackagePath>
-      <Modified>2022-12-08T16:44:15.765</Modified>
+      <Modified>2023-03-02T15:16:36.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\common.js.map">
       <PackagePath>Public\common.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.810</Modified>
+      <Modified>2023-03-02T15:16:36.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-node_modules_capacitor_core_dist_index_js.js.map">
       <PackagePath>Public\default-node_modules_capacitor_core_dist_index_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.809</Modified>
+      <Modified>2023-03-02T15:16:36.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-node_modules_ionic_core_dist_esm_data-cb72448c_js-node_modules_ionic_core_dist_esm_th-29e28e.js.map">
       <PackagePath>Public\default-node_modules_ionic_core_dist_esm_data-cb72448c_js-node_modules_ionic_core_dist_esm_th-29e28e.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.809</Modified>
+      <Modified>2023-03-02T15:16:36.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-src_app_components_swag-modal_swag-modal_page_ts.js.map">
       <PackagePath>Public\default-src_app_components_swag-modal_swag-modal_page_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.809</Modified>
+      <Modified>2023-03-02T15:16:36.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\default-src_app_services_company_service_ts-src_app_services_speaker_service_ts.js.map">
       <PackagePath>Public\default-src_app_services_company_service_ts-src_app_services_speaker_service_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.809</Modified>
+      <Modified>2023-03-02T15:16:36.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\main.js.map">
       <PackagePath>Public\main.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.764</Modified>
+      <Modified>2023-03-02T15:16:36.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_capacitor_browser_dist_esm_web_js.js.map">
       <PackagePath>Public\node_modules_capacitor_browser_dist_esm_web_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.792</Modified>
+      <Modified>2023-03-02T15:16:36.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_capacitor_preferences_dist_esm_web_js.js.map">
       <PackagePath>Public\node_modules_capacitor_preferences_dist_esm_web_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.792</Modified>
+      <Modified>2023-03-02T15:16:36.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_index-0bc00b33_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_index-0bc00b33_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.785</Modified>
+      <Modified>2023-03-02T15:16:36.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_input-shims-ca667d14_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_input-shims-ca667d14_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.785</Modified>
+      <Modified>2023-03-02T15:16:36.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.765</Modified>
+      <Modified>2023-03-02T15:16:36.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.765</Modified>
+      <Modified>2023-03-02T15:16:36.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-alert_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-alert_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.766</Modified>
+      <Modified>2023-03-02T15:16:36.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.766</Modified>
+      <Modified>2023-03-02T15:16:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.766</Modified>
+      <Modified>2023-03-02T15:16:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.767</Modified>
+      <Modified>2023-03-02T15:16:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.767</Modified>
+      <Modified>2023-03-02T15:16:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.767</Modified>
+      <Modified>2023-03-02T15:16:36.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.768</Modified>
+      <Modified>2023-03-02T15:16:36.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.768</Modified>
+      <Modified>2023-03-02T15:16:36.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.769</Modified>
+      <Modified>2023-03-02T15:16:36.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-chip_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-chip_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.769</Modified>
+      <Modified>2023-03-02T15:16:36.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.769</Modified>
+      <Modified>2023-03-02T15:16:36.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.769</Modified>
+      <Modified>2023-03-02T15:16:36.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.770</Modified>
+      <Modified>2023-03-02T15:16:36.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.770</Modified>
+      <Modified>2023-03-02T15:16:36.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-img_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-img_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.770</Modified>
+      <Modified>2023-03-02T15:16:36.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.771</Modified>
+      <Modified>2023-03-02T15:16:36.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-input_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-input_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.771</Modified>
+      <Modified>2023-03-02T15:16:36.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.771</Modified>
+      <Modified>2023-03-02T15:16:36.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.772</Modified>
+      <Modified>2023-03-02T15:16:36.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-loading_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-loading_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.772</Modified>
+      <Modified>2023-03-02T15:16:36.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.773</Modified>
+      <Modified>2023-03-02T15:16:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-modal_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-modal_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.773</Modified>
+      <Modified>2023-03-02T15:16:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.773</Modified>
+      <Modified>2023-03-02T15:16:36.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.774</Modified>
+      <Modified>2023-03-02T15:16:36.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.774</Modified>
+      <Modified>2023-03-02T15:16:36.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-popover_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-popover_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.774</Modified>
+      <Modified>2023-03-02T15:16:36.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.774</Modified>
+      <Modified>2023-03-02T15:16:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.774</Modified>
+      <Modified>2023-03-02T15:16:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-range_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-range_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.775</Modified>
+      <Modified>2023-03-02T15:16:36.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.775</Modified>
+      <Modified>2023-03-02T15:16:36.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.776</Modified>
+      <Modified>2023-03-02T15:16:36.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.776</Modified>
+      <Modified>2023-03-02T15:16:36.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.776</Modified>
+      <Modified>2023-03-02T15:16:36.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.777</Modified>
+      <Modified>2023-03-02T15:16:36.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.777</Modified>
+      <Modified>2023-03-02T15:16:36.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.778</Modified>
+      <Modified>2023-03-02T15:16:36.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-slide_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.778</Modified>
+      <Modified>2023-03-02T15:16:36.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.778</Modified>
+      <Modified>2023-03-02T15:16:36.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.778</Modified>
+      <Modified>2023-03-02T15:16:36.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.779</Modified>
+      <Modified>2023-03-02T15:16:36.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.779</Modified>
+      <Modified>2023-03-02T15:16:36.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.779</Modified>
+      <Modified>2023-03-02T15:16:36.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-text_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-text_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.779</Modified>
+      <Modified>2023-03-02T15:16:36.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-toast_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-toast_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.780</Modified>
+      <Modified>2023-03-02T15:16:36.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.780</Modified>
+      <Modified>2023-03-02T15:16:36.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_ion-virtual-scroll_entry_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.782</Modified>
+      <Modified>2023-03-02T15:16:36.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_status-tap-20472ffa_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_status-tap-20472ffa_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.785</Modified>
+      <Modified>2023-03-02T15:16:36.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js.map">
       <PackagePath>Public\node_modules_ionic_core_dist_esm_swiper_bundle-28080340_js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.786</Modified>
+      <Modified>2023-03-02T15:16:36.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills-core-js.js.map">
       <PackagePath>Public\polyfills-core-js.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.783</Modified>
+      <Modified>2023-03-02T15:16:36.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills-dom.js.map">
       <PackagePath>Public\polyfills-dom.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.782</Modified>
+      <Modified>2023-03-02T15:16:36.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\polyfills.js.map">
       <PackagePath>Public\polyfills.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.764</Modified>
+      <Modified>2023-03-02T15:16:36.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\runtime.js.map">
       <PackagePath>Public\runtime.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.765</Modified>
+      <Modified>2023-03-02T15:16:36.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_components_swag-modal_swag-modal_module_ts.js.map">
       <PackagePath>Public\src_app_components_swag-modal_swag-modal_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.784</Modified>
+      <Modified>2023-03-02T15:16:36.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_auth-transition_auth-transition_module_ts.js.map">
       <PackagePath>Public\src_app_pages_auth-transition_auth-transition_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.785</Modified>
+      <Modified>2023-03-02T15:16:36.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_login_login_module_ts.js.map">
       <PackagePath>Public\src_app_pages_login_login_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.784</Modified>
+      <Modified>2023-03-02T15:16:36.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_profile_profile_module_ts.js.map">
       <PackagePath>Public\src_app_pages_profile_profile_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.784</Modified>
+      <Modified>2023-03-02T15:16:36.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_speakers_speakers_module_ts.js.map">
       <PackagePath>Public\src_app_pages_speakers_speakers_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.786</Modified>
+      <Modified>2023-03-02T15:16:36.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_sponsors_sponsors_module_ts.js.map">
       <PackagePath>Public\src_app_pages_sponsors_sponsors_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.783</Modified>
+      <Modified>2023-03-02T15:16:36.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tab1_agenda-item_agenda-item_module_ts.js.map">
       <PackagePath>Public\src_app_pages_tab1_agenda-item_agenda-item_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.792</Modified>
+      <Modified>2023-03-02T15:16:36.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tab1_tab1_module_ts.js.map">
       <PackagePath>Public\src_app_pages_tab1_tab1_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.786</Modified>
+      <Modified>2023-03-02T15:16:36.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\src_app_pages_tabs_tabs_module_ts.js.map">
       <PackagePath>Public\src_app_pages_tabs_tabs_module_ts.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.783</Modified>
+      <Modified>2023-03-02T15:16:36.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\styles.css.map">
       <PackagePath>Public\styles.css.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.764</Modified>
+      <Modified>2023-03-02T15:16:36.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\vendor.js.map">
       <PackagePath>Public\vendor.js.map</PackagePath>
-      <Modified>2022-12-08T16:44:15.811</Modified>
+      <Modified>2023-03-02T15:16:36.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\index.html">
       <PackagePath>Public\index.html</PackagePath>
-      <Modified>2022-12-08T16:44:16.867</Modified>
+      <Modified>2023-03-02T15:16:39.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\Public\styles.css">
       <PackagePath>Public\styles.css</PackagePath>
-      <Modified>2022-12-08T16:44:15.732</Modified>
+      <Modified>2023-03-02T15:16:36.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-12-08T17:17:59.620</Modified>
+      <Modified>2023-03-02T15:19:38.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
-      <Modified>2022-12-08T17:17:59.620</Modified>
+      <Modified>2023-03-02T15:19:38.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -6222,15 +6222,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\capacitor.config.json">
       <PackagePath>capacitor.config.json</PackagePath>
-      <Modified>2022-12-08T16:44:36.414</Modified>
+      <Modified>2023-03-02T15:17:00.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\capacitor.plugins.json">
       <PackagePath>capacitor.plugins.json</PackagePath>
-      <Modified>2022-12-08T16:21:42.419</Modified>
+      <Modified>2023-02-23T16:27:39.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-12-08T16:38:14.433</Modified>
+      <Modified>2023-03-02T15:19:42.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\.nuget\packages\capacitor\1.5.5\lib\net5.0-windows10.0.19041\Capacitor.dll">
       <PackagePath>App\Capacitor.dll</PackagePath>
@@ -6374,31 +6374,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\App.deps.json">
       <PackagePath>App\App.deps.json</PackagePath>
-      <Modified>2022-12-08T16:38:12.261</Modified>
+      <Modified>2023-03-02T15:19:39.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\App.runtimeconfig.dev.json">
       <PackagePath>App\App.runtimeconfig.dev.json</PackagePath>
-      <Modified>2022-12-08T16:38:12.317</Modified>
+      <Modified>2023-03-02T15:19:39.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App\App.xbf</PackagePath>
-      <Modified>2022-12-08T17:17:59.620</Modified>
+      <Modified>2023-03-02T15:19:38.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>App\MainWindow.xbf</PackagePath>
-      <Modified>2022-12-08T17:17:59.620</Modified>
+      <Modified>2023-03-02T15:19:38.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\obj\x64\Debug\net5.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>App\App.exe</PackagePath>
-      <Modified>2022-12-08T17:23:06.865</Modified>
+      <Modified>2023-03-07T15:17:59.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\App.runtimeconfig.json">
       <PackagePath>App\App.runtimeconfig.json</PackagePath>
-      <Modified>2022-12-08T16:38:12.314</Modified>
+      <Modified>2023-03-02T15:19:39.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App\bin\x64\Debug\net5.0-windows10.0.19041.0\App.dll">
       <PackagePath>App\App.dll</PackagePath>
-      <Modified>2022-12-08T17:23:06.853</Modified>
+      <Modified>2023-03-07T15:17:59.391</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

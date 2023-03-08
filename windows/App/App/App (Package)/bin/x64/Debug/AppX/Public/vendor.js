@@ -3754,7 +3754,7 @@ class IonicBaseAuth {
       }
 
       if (_this74.storage.setIdToken && authResult.idToken) {
-        _this74.storage.setIdToken(authResult.idToken);
+        yield _this74.storage.setIdToken(authResult.idToken);
       }
 
       if (_this74.storage.setAccessToken && authResult.accessToken) {
@@ -4170,6 +4170,7 @@ class IonicAuthWeb extends IonicBaseAuth {
     this.options = options;
     this.handlers = handlers;
     this.logTag = 'IonicWebAuth: ';
+    this.lastAuthPopup = null;
     this.logger.debug(this.logTag, 'ctor options', options);
     window.addEventListener('message', event => {
       this.logger.debug(this.logTag, 'event: ', event);
@@ -4297,9 +4298,7 @@ class IonicAuthWeb extends IonicBaseAuth {
 
         const scope = yield _this97.session.getTokenScopes(tokenName);
         const authResult = yield _this97.internalGetToken('', '', '', undefined, scope);
-
-        _this97.setSession(authResult, tokenName, scope);
-
+        yield _this97.setSession(authResult, tokenName, scope);
         return;
       }
 
@@ -4482,6 +4481,7 @@ class IonicAuthWeb extends IonicBaseAuth {
           this.logger.debug(this.logTag, 'opening browser.');
           let popupLocation;
           const popup = window.open(url, '_system');
+          this.lastAuthPopup = popup;
           var timer = window.setInterval(() => {
             if (!popup || popup.closed) {
               window.clearInterval(timer);
@@ -4878,6 +4878,17 @@ class IonicAuth {
 
   getAccessToken(tokenName, scopes) {
     return this.implementation.getAccessToken(tokenName, scopes);
+  }
+  /**
+   * Get the unparsed id token.
+   *
+   * @example
+   * myAuthService.getRawIdToken()
+   */
+
+
+  getRawIdToken() {
+    return this.implementation.getRawIdToken();
   }
   /**
    * Get the parsed id token, includes requested scope values.
