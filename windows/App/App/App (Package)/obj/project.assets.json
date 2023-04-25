@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "UAP,Version=v10.0.17763": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -272,7 +272,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -461,7 +461,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm-aot": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -650,7 +650,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm64-aot": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -842,7 +842,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -1034,7 +1034,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64-aot": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -1226,7 +1226,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -1418,7 +1418,7 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86-aot": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -1611,13 +1611,13 @@
     }
   },
   "libraries": {
-    "Capacitor/1.5.5": {
-      "sha512": "CTMVjnkygvmFTyQ2jbElgY9EQUVIjcTNztoal0v650XsH0pE/tg+RiAKrp5wfOJQjGEcBL1iPRCmpVYoomM73g==",
+    "Capacitor/1.5.6": {
+      "sha512": "JKRns/qaj6U7WeZStOfX9L9thU4ysHHT9lxHihZHde8vOPyLKME3EkNWkZR3vRPME3mdi2w1YTjTTswg0y0wRQ==",
       "type": "package",
-      "path": "capacitor/1.5.5",
+      "path": "capacitor/1.5.6",
       "files": [
         ".nupkg.metadata",
-        "capacitor.1.5.5.nupkg.sha512",
+        "capacitor.1.5.6.nupkg.sha512",
         "capacitor.nuspec",
         "lib/net5.0-windows10.0.19041/Capacitor.dll",
         "lib/net5.0-windows10.0.19041/Capacitor.pri"
@@ -2654,7 +2654,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Capacitor 1.5.5' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net7.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "message": "Package 'Capacitor 1.5.6' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net7.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
       "libraryId": "Capacitor",
       "targetGraphs": [
         "UAP,Version=v10.0.17763"

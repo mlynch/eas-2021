@@ -4675,7 +4675,7 @@
     <AppxPackagedFile Include="E:\GitHub\eas-2021-2\windows\App\App\App %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\capacitor\1.5.5\lib\net5.0-windows10.0.19041\Capacitor.dll">
+    <AppxPackagedFile Include="C:\Users\max\.nuget\packages\capacitor\1.5.6\lib\net5.0-windows10.0.19041\Capacitor.dll">
       <PackagePath>App\Capacitor.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\max\.nuget\packages\desktopbridge.helpers\1.2.2\lib\netstandard2.0\DesktopBridge.Helpers.dll">

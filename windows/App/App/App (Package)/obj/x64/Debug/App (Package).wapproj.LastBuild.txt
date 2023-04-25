@@ -1546,7 +1546,7 @@ C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Un
 E:\GitHub\eas-2021-2\windows\App\App\capacitor.config.json
 E:\GitHub\eas-2021-2\windows\App\App\capacitor.plugins.json
 E:\GitHub\eas-2021-2\windows\App\App\App (Package)\bin\x64\Debug\resources.pri
-C:\Users\max\.nuget\packages\capacitor\1.5.5\lib\net5.0-windows10.0.19041\Capacitor.dll
+C:\Users\max\.nuget\packages\capacitor\1.5.6\lib\net5.0-windows10.0.19041\Capacitor.dll
 C:\Users\max\.nuget\packages\desktopbridge.helpers\1.2.2\lib\netstandard2.0\DesktopBridge.Helpers.dll
 C:\Users\max\.nuget\packages\microsoft.data.sqlite.core\6.0.0\lib\netstandard2.0\Microsoft.Data.Sqlite.dll
 C:\Users\max\.nuget\packages\microsoft.windowsappsdk\1.0.2\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll

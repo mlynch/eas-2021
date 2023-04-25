@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "App/1.0.0": {
         "dependencies": {
-          "Capacitor": "1.5.5",
+          "Capacitor": "1.5.6",
           "Microsoft.WindowsAppSDK": "1.0.2",
           "Newtonsoft.Json": "13.0.1",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.26"
@@ -29,7 +29,7 @@
           }
         }
       },
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
           "Microsoft.Data.Sqlite": "6.0.0",
@@ -38,8 +38,8 @@
         },
         "runtime": {
           "lib/net5.0-windows10.0.19041/Capacitor.dll": {
-            "assemblyVersion": "1.5.5.0",
-            "fileVersion": "1.5.5.0"
+            "assemblyVersion": "1.5.6.0",
+            "fileVersion": "1.5.6.0"
           }
         }
       },
@@ -261,12 +261,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Capacitor/1.5.5": {
+    "Capacitor/1.5.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CTMVjnkygvmFTyQ2jbElgY9EQUVIjcTNztoal0v650XsH0pE/tg+RiAKrp5wfOJQjGEcBL1iPRCmpVYoomM73g==",
-      "path": "capacitor/1.5.5",
-      "hashPath": "capacitor.1.5.5.nupkg.sha512"
+      "sha512": "sha512-JKRns/qaj6U7WeZStOfX9L9thU4ysHHT9lxHihZHde8vOPyLKME3EkNWkZR3vRPME3mdi2w1YTjTTswg0y0wRQ==",
+      "path": "capacitor/1.5.6",
+      "hashPath": "capacitor.1.5.6.nupkg.sha512"
     },
     "DesktopBridge.Helpers/1.2.2": {
       "type": "package",

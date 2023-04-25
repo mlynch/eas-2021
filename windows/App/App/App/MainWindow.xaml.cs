@@ -30,6 +30,10 @@ namespace App {
 async function handleACCallback() {{
     var u = new URL('{uri.ToString()}');
     if (u.searchParams.get('code')) {{
+        const nextURL = new URL(window.IonicAuth.implementation.authConfig.options.redirectUri);
+        for (const [key, value] of u.searchParams.entries()) {{
+          nextURL.searchParams.append(key, value);
+        }}
         await window.IonicAuth.handleLoginCallback('{uri.ToString()}');
     }} else {{
         await window.IonicAuth.handleLogoutCallback();

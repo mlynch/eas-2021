@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0-windows10.0.19041": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -267,7 +267,7 @@
       }
     },
     "net5.0-windows10.0.19041/win10-arm64": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -462,7 +462,7 @@
       }
     },
     "net5.0-windows10.0.19041/win10-x64": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -657,7 +657,7 @@
       }
     },
     "net5.0-windows10.0.19041/win10-x86": {
-      "Capacitor/1.5.5": {
+      "Capacitor/1.5.6": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -853,13 +853,13 @@
     }
   },
   "libraries": {
-    "Capacitor/1.5.5": {
-      "sha512": "CTMVjnkygvmFTyQ2jbElgY9EQUVIjcTNztoal0v650XsH0pE/tg+RiAKrp5wfOJQjGEcBL1iPRCmpVYoomM73g==",
+    "Capacitor/1.5.6": {
+      "sha512": "JKRns/qaj6U7WeZStOfX9L9thU4ysHHT9lxHihZHde8vOPyLKME3EkNWkZR3vRPME3mdi2w1YTjTTswg0y0wRQ==",
       "type": "package",
-      "path": "capacitor/1.5.5",
+      "path": "capacitor/1.5.6",
       "files": [
         ".nupkg.metadata",
-        "capacitor.1.5.5.nupkg.sha512",
+        "capacitor.1.5.6.nupkg.sha512",
         "capacitor.nuspec",
         "lib/net5.0-windows10.0.19041/Capacitor.dll",
         "lib/net5.0-windows10.0.19041/Capacitor.pri"
