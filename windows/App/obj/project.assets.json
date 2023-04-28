@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0-windows10.0.19041": {
-      "CapacitorWpf/1.5.5": {
+      "CapacitorWpf/1.5.8": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -233,7 +233,7 @@
       }
     },
     "net5.0-windows10.0.19041/win-x64": {
-      "CapacitorWpf/1.5.5": {
+      "CapacitorWpf/1.5.8": {
         "type": "package",
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
@@ -395,13 +395,13 @@
     }
   },
   "libraries": {
-    "CapacitorWpf/1.5.5": {
-      "sha512": "tOv02Hr8Jska0E3Y/b1QZFZiW7OGnteZCsvsGyrfhruawDO4o69Tb8YH3qnhyTklLNf789/r96crCVO7EbXL2A==",
+    "CapacitorWpf/1.5.8": {
+      "sha512": "l6L5hHHH8OlKnvOLmt8Ydb4K7vs5yS+QM45RQW1WDOK1+/huGlD7ZXgdbWD30AR7orQlMddv7UKzdaJtdBOdXw==",
       "type": "package",
-      "path": "capacitorwpf/1.5.5",
+      "path": "capacitorwpf/1.5.8",
       "files": [
         ".nupkg.metadata",
-        "capacitorwpf.1.5.5.nupkg.sha512",
+        "capacitorwpf.1.5.8.nupkg.sha512",
         "capacitorwpf.nuspec",
         "lib/net5.0-windows10.0.19041/CapacitorWpf.dll"
       ]

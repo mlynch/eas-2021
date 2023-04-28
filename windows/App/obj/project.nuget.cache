@@ -4,7 +4,7 @@
   "success": true,
   "projectFilePath": "E:\\GitHub\\eas-2021-2\\windows\\App\\App.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\max\\.nuget\\packages\\capacitorwpf\\1.5.5\\capacitorwpf.1.5.5.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\capacitorwpf\\1.5.8\\capacitorwpf.1.5.8.nupkg.sha512",
     "C:\\Users\\max\\.nuget\\packages\\desktopbridge.helpers\\1.2.2\\desktopbridge.helpers.1.2.2.nupkg.sha512",
     "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite\\6.0.0\\microsoft.data.sqlite.6.0.0.nupkg.sha512",
     "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "App/1.0.0": {
         "dependencies": {
-          "CapacitorWpf": "1.5.5",
+          "CapacitorWpf": "1.5.8",
           "Microsoft.Web.WebView2": "1.0.1210.39",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.26"
         },
@@ -28,7 +28,7 @@
           }
         }
       },
-      "CapacitorWpf/1.5.5": {
+      "CapacitorWpf/1.5.8": {
         "dependencies": {
           "DesktopBridge.Helpers": "1.2.2",
           "Microsoft.Data.Sqlite": "6.0.0",
@@ -37,8 +37,8 @@
         },
         "runtime": {
           "lib/net5.0-windows10.0.19041/CapacitorWpf.dll": {
-            "assemblyVersion": "1.5.5.0",
-            "fileVersion": "1.5.5.0"
+            "assemblyVersion": "1.5.8.0",
+            "fileVersion": "1.5.8.0"
           }
         }
       },
@@ -236,12 +236,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CapacitorWpf/1.5.5": {
+    "CapacitorWpf/1.5.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tOv02Hr8Jska0E3Y/b1QZFZiW7OGnteZCsvsGyrfhruawDO4o69Tb8YH3qnhyTklLNf789/r96crCVO7EbXL2A==",
-      "path": "capacitorwpf/1.5.5",
-      "hashPath": "capacitorwpf.1.5.5.nupkg.sha512"
+      "sha512": "sha512-l6L5hHHH8OlKnvOLmt8Ydb4K7vs5yS+QM45RQW1WDOK1+/huGlD7ZXgdbWD30AR7orQlMddv7UKzdaJtdBOdXw==",
+      "path": "capacitorwpf/1.5.8",
+      "hashPath": "capacitorwpf.1.5.8.nupkg.sha512"
     },
     "DesktopBridge.Helpers/1.2.2": {
       "type": "package",

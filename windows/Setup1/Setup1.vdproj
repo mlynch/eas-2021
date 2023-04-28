@@ -15,6 +15,24 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_2536C5623FA94A368B4C5A47C558D34C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5C4897F5459442C789811BA28BC3FD3C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_956CFBD6F24845799BA8EDC131AB2FFC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9AD5D18A476749B4A68ACC5900443208"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -22,6 +40,12 @@
         "Entry"
         {
         "MsmKey" = "8:_B01C6B8566D44D19B6EDC69792D0660B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D14CAD29A051404D8DD86D63C6606C3D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -92,6 +116,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -99,6 +131,20 @@
     {
         "CustomAction"
         {
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_4794EEC18160403CA6959E653CE574BF"
+            {
+            "Name" = "8:UninstallHelper.exe"
+            "Condition" = "8:"
+            "Object" = "8:_5C4897F5459442C789811BA28BC3FD3C"
+            "FileType" = "3:2"
+            "InstallAction" = "3:4"
+            "Arguments" = "8:/Uninstall"
+            "EntryPoint" = "8:"
+            "Sequence" = "3:1"
+            "Identifier" = "8:_7916E70C_E406_4BB1_84C1_7480FBEB2BD2"
+            "InstallerClass" = "11:FALSE"
+            "CustomActionData" = "8:"
+            }
         }
         "DefaultFeature"
         {
@@ -124,6 +170,46 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C4897F5459442C789811BA28BC3FD3C"
+            {
+            "SourcePath" = "8:..\\UninstallHelper\\bin\\Debug\\net5.0\\UninstallHelper.exe"
+            "TargetName" = "8:UninstallHelper.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_2633C32D79504DE4AA7CF77B5546CE1E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D14CAD29A051404D8DD86D63C6606C3D"
+            {
+            "SourcePath" = "8:..\\App\\uninstall.bat"
+            "TargetName" = "8:uninstall.bat"
+            "Tag" = "8:"
+            "Folder" = "8:_2633C32D79504DE4AA7CF77B5546CE1E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -164,6 +250,17 @@
                 {
                 }
             }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_84AA3FAD4FFC44C6BE0B397E3573F8D7"
+            {
+            "Name" = "8:#1915"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:AppDataFolder"
+                "Folders"
+                {
+                }
+            }
         }
         "LaunchCondition"
         {
@@ -181,7 +278,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup1"
         "ProductCode" = "8:{292296C8-F21B-4883-9499-2290DF066CCB}"
-        "PackageCode" = "8:{CB94F513-5A65-406F-BCE8-BB3A9CFBA507}"
+        "PackageCode" = "8:{CC449C0F-F24F-4700-AAB2-A8B9D95633A1}"
         "UpgradeCode" = "8:{41B18FC6-402D-45A1-9BDE-3CFB69C2A154}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -836,6 +933,34 @@
                 {
                 }
             }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2536C5623FA94A368B4C5A47C558D34C"
+            {
+            "SourcePath" = "8:..\\UninstallHelper\\obj\\Debug\\net5.0\\apphost.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_2633C32D79504DE4AA7CF77B5546CE1E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:PublishItems"
+            "OutputProjectGuid" = "8:{D6AA6CB8-6164-4BD2-810F-94B14DDEB9AE}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_35B179A6864F47BA83DB064A1FFC440E"
             {
             "SourcePath" = "8:"
@@ -887,6 +1012,34 @@
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:ReferenceCopyLocalPathsOutputGroup"
             "OutputProjectGuid" = "8:{E3D05458-816B-4602-914C-D6970EA58557}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_956CFBD6F24845799BA8EDC131AB2FFC"
+            {
+            "SourcePath" = "8:..\\UninstallHelper\\obj\\Debug\\net5.0\\UninstallHelper.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_2633C32D79504DE4AA7CF77B5546CE1E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{D6AA6CB8-6164-4BD2-810F-94B14DDEB9AE}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {

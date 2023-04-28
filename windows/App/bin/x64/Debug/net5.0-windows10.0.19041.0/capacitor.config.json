@@ -3,7 +3,11 @@
 	"appName": "EAS 21",
 	"webDir": "www",
 	"bundledWebRuntime": false,
-	"windows": {
-		"unpackaged": true
-	}
+    "windows": {
+        "unpackaged": true
+    },
+    "server": {
+        "windowsScheme": "https",
+        "hostname":  "asdf"
+    }
 }

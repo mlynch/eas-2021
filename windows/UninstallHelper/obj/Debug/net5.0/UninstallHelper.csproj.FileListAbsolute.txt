@@ -1,0 +1,16 @@
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.exe
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.deps.json
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.runtimeconfig.json
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.runtimeconfig.dev.json
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.dll
+E:\GitHub\eas-2021-2\windows\UninstallHelper\bin\Debug\net5.0\UninstallHelper.pdb
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.csproj.AssemblyReference.cache
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.AssemblyInfoInputs.cache
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.AssemblyInfo.cs
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.csproj.CoreCompileInputs.cache
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.dll
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\refint\UninstallHelper.dll
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.pdb
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\UninstallHelper.genruntimeconfig.cache
+E:\GitHub\eas-2021-2\windows\UninstallHelper\obj\Debug\net5.0\ref\UninstallHelper.dll
