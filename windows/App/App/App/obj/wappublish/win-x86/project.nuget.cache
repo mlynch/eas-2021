@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1wdUY34BaeZQZHoBXXLlF68rHtYj51/r4THnyFGvLELYSXv9huxoJDAD46SaN1V5FV6l3z0XVL6QYfh76JRFA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\eas-2021-2\\windows\\App\\App\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max\\.nuget\\packages\\capacitor\\1.6.4\\capacitor.1.6.4.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\desktopbridge.helpers\\1.2.2\\desktopbridge.helpers.1.2.2.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite\\6.0.0\\microsoft.data.sqlite.6.0.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230331000\\microsoft.windowsappsdk.1.3.230331000.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.16\\microsoft.netcore.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\max\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512"
+  ],
+  "logs": []
+}

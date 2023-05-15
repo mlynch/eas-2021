@@ -1,0 +1,2 @@
+MainPackage=E:\GitHub\eas-2021-2\windows\App\App\App (Package)\bin\x86\Debug\App (Package)_1.0.8.0_x86_Debug.msix
+SymbolPackage=E:\GitHub\eas-2021-2\windows\App\App\App (Package)\obj\x86\Debug\Symbols\App (Package)_1.0.8.0_x86_Debug.appxsym

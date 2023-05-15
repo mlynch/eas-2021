@@ -9,7 +9,7 @@
   <Identity
     Name="81d38ca1-933c-4d2a-8870-a913a2758389"
     Publisher="CN=max"
-    Version="1.0.0.0" />
+    Version="1.0.8.0" />
 
   <Properties>
     <DisplayName>App (Package)</DisplayName>

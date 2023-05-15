@@ -99,7 +99,7 @@ namespace App {
                             RedirectActivationTo(args, keyInstance);
                         }
                     }
-                } catch (Exception ex) {
+                } catch (Exception) {
                     throw;
                 }
             }
